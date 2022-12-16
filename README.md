@@ -5,4 +5,11 @@ it searches the weather details for any of the city in world
 used Open weather Api to fetch the data 
 
 #output
-![Screenshot (146)](https://user-images.githubusercontent.com/89680568/192174466-efb15d65-3bdc-40b6-8785-2b241728e530.png)
+
+![stockholms](https://user-images.githubusercontent.com/76845356/208099980-5b84906a-9b60-4682-a11b-2ca3dbded259.PNG)
+
+
+starting the application 
+
+- type npm install, 
+- then npm run 
