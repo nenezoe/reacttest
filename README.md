@@ -1,7 +1,7 @@
 # Weather Forcasting Application
 
 This is React application which fetches the data from the api and displays the todays weather information 
-it searches the weather details for any of the city in world
+for stockholms
 used Open weather Api to fetch the data 
 
 #output
