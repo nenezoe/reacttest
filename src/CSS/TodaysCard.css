@@ -1,0 +1,52 @@
+.main {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    /* margin-left: 2rem;
+    display: grid;
+    grid-template-columns: 1.2fr 1.2fr 1.2fr;
+     */
+}
+
+.holder {
+    height: 240px !important;
+}
+
+.othercards{
+    /* display: grid !important; */
+    grid-template-columns: 1.2fr 1.2fr 1.2fr;
+    /* gap: 2rem; */
+}
+
+.time_el {
+    margin: 1rem;
+}
+
+.loc_data {
+    text-align: left;
+    /* margin: 2rem; */
+    margin-right: 5rem;
+}
+
+.loc_data img {
+    float: left;
+    height: 50px;
+    width: 60px;
+}
+
+.loc_data h1 {
+    margin-top: 2rem;
+}
+
+.loc_data1 {
+    margin-top: 3rem;
+}
+
+
+@media (min-width:221px) and (max-width:668px) {
+.main2 {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+}
